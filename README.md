@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-**Name:** Walid Hawari
-**Email:** walidhawari95@gmail.com
-**Github Username:** [whawari](https://github.com/whawari)
+**Name:** Walid Hawari  
+**Email:** walidhawari95@gmail.com  
+**Github Username:** [whawari](https://github.com/whawari)  
 **Linkedin Username:** [walid hawari](https://www.linkedin.com/in/walid-hawari-ba35a820b)
 
 ## Tech Stack
